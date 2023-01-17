@@ -6,7 +6,8 @@ This repository contains my configuration files for Mozilla Thunderbird. Take it
 Feedback, suggestions, improvements and bug reports always welcome!
 
 ## Files and locations
-The file *user.js* must be placed in your [profile directory](https://support.mozilla.org/en-US/kb/profiles-where-thunderbird-stores-user-data).
+* The file *user.js* must be placed in your [profile directory](https://support.mozilla.org/en-US/kb/profiles-where-thunderbird-stores-user-data).
+* The file *addons.md* lists add-ons that must be installed manually, this file must not be copied to the profile directory.
 
 ## Limitations
 Settings done in *user.js* will, upon each restart of the program, override any contradicting local configuration you might have done either in the program's configuration dialog, or in [about:config](https://support.mozilla.org/en-US/kb/config-editor).
